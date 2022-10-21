@@ -7,7 +7,7 @@ function Component_navbar() {
   return (
     <Navbar bg="dark" expand="lg">
       <Container>
-        <Navbar.Brand href="#home" style={{color:"white"}}>G-12 Redes2-Server2</Navbar.Brand>
+        <Navbar.Brand href="#home" style={{color:"white"}}>G-12 Redes2-Server1</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
